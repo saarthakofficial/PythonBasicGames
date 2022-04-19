@@ -60,9 +60,9 @@ def get_input(play_board,n):
                 return
             else:
                 get_input(play_board,n+2)
-
+                
 def check_win(play_board):
-
+    
     print_board(play_board)
 
     if play_board[0][0]==play_board[0][1] and play_board[0][0]==play_board[0][2]:
