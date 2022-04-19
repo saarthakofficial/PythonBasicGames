@@ -1,6 +1,7 @@
 # PythonBasicGames
-4 Basic Command-line games created with Python:-
-*
-*
-*
-*
+3 Basic Command-line games created with Python:-
+* Flames
+* Rock Paper Scissors
+* Tic-Tac-Toe:
+  a) Local Multiplayer
+  b) With Computer
