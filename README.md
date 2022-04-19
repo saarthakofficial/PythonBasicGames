@@ -1,2 +1,6 @@
 # PythonBasicGames
-* 4 Basic Command-line games created with Python
+4 Basic Command-line games created with Python:-
+*
+*
+*
+*
