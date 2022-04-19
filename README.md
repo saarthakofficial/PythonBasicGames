@@ -3,8 +3,7 @@
 * Flames
 * Rock Paper Scissors
 * Tic-Tac-Toe:
-<l>
-a) Local Multiplayer
+  a) Local Multiplayer
 <br>
-b) With Computer
+  b) With Computer
 </l>
